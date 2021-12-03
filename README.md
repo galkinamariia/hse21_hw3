@@ -2,7 +2,7 @@
 ### Введение
 Целью данного задания является сравнение RNA-seq данных перепрограммированных и неперепрограммированных (контрольных) мышиных эмбриональных фибробластов (MEFs) и нахождение генов, которые наиболее сильно изменяют свою экспрессию в этом процессе.
 
-Ссылка на мой первый google colab: 
+Ссылка на мой первый google colab: https://colab.research.google.com/drive/1Z_usMhFuSfnMnPAVMf9EieIy2-uS2pwO?usp=sharing
  
  ### Часть №1 ДЗ№3
  
@@ -17,7 +17,7 @@
   <img src="/pictures/final_stat.png " width="400" />
  
  ### Часть №2 ДЗ№3
- > Ссылка на второй google colab: 
+ > Ссылка на второй google colab: https://colab.research.google.com/drive/1OGBB9wsmZ55oty3FxfzwGzG41QIsYY2p?usp=sharing
  
  ### Графики из анализа DESeq2:
  
