@@ -14,7 +14,18 @@
   <img src="/pictures/fastqc_sequence_duplication_levels_plot.png" width="600" />
  
  > Результатом первой части задания является сводная таблица ALL.counts, где указано количество чтений уникально-картированных на каждый ген в каждом образце следующего вида:
-  <img src="/pictures/final_stat.png " width="400" />
+ 
+    Число чтений для SRR3414629: 16049609
+    
+    Число чтений для SRR3414630: 11465324
+    
+    Число чтений для SRR3414631: 18408851
+    
+    Число чтений для SRR3414635: 10791658
+    
+    Число чтений для SRR3414636: 15757580
+    
+    Число чтений для SRR3414637: 15736978
  
  ### Часть №2 ДЗ№3
  > Ссылка на второй google colab: https://colab.research.google.com/drive/1OGBB9wsmZ55oty3FxfzwGzG41QIsYY2p?usp=sharing
